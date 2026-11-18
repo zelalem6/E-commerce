@@ -1,6 +1,6 @@
 #  E-Commerce Management System
 
-An online platform for buying and selling products.
+An online platform designed to manage online shopping.
 
 ## Group Members
 
