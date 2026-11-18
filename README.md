@@ -10,6 +10,6 @@ An online platform designed to manage online shopping.
 | 2 | Natnael Desale | 0505/17 |NatnaelDesale |
 | 3 | Natnael Mesafint | 0507/17 |natnaelmesafint87 |
 | 4 | Fedilla Abdulkerim | 4932/17 | |
-| 5 | Daniel Hailesilassie | 1124/17 | |
+| 5 | Daniel Hailesilassie | 1124/17 |danielhailesilassie-sketch |
 | 6 | Bisrat Tesfaye | 0170/17 | |
 | 7 | Hanan Mohamed | 0321/17 | |
