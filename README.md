@@ -12,4 +12,4 @@ An online platform designed to manage online shopping.
 | 4 | Fedilla Abdulkerim | 4932/17 |FedilaA77 | 
 | 5 | Daniel Hailesilassie | 1124/17 |danielhailesilassie-sketch |
 | 6 | Bisrat Tesfaye | 0170/17 |bisrattesfaye01-droid |
-| 7 | Hanan Mohamed | 0321/17 | |
+| 7 | Hanan Mohamed | 0321/17 |hananmuhamed0 |
